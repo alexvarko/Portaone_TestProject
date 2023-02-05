@@ -1,0 +1,11 @@
+D:\Courses\BaD\TestProject\TestProject\bin\Debug\TestProject.exe.config
+D:\Courses\BaD\TestProject\TestProject\bin\Debug\TestProject.exe
+D:\Courses\BaD\TestProject\TestProject\bin\Debug\TestProject.pdb
+D:\Courses\BaD\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+D:\Courses\BaD\TestProject\TestProject\obj\Debug\TestProject.csproj.SuggestedBindingRedirects.cache
+D:\Courses\BaD\TestProject\TestProject\obj\Debug\TestProject.Form1.resources
+D:\Courses\BaD\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+D:\Courses\BaD\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+D:\Courses\BaD\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+D:\Courses\BaD\TestProject\TestProject\obj\Debug\TestProject.exe
+D:\Courses\BaD\TestProject\TestProject\obj\Debug\TestProject.pdb
